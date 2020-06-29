@@ -1,0 +1,3 @@
+import datetime
+drip=datetime.datetime.now()
+print("Today is", drip.date(), "and it is",drip.strftime("%X") )
