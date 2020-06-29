@@ -1,2 +1,4 @@
 # HACKINSCIENCE.PY-PROJECTS
 PYTHON HACKINSCIENCE PROJECTS
+
+This contains python practice projects done with HACKINSCIENCE. 
