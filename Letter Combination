@@ -1,0 +1,8 @@
+#def swipe(alpha1,alpha2):
+import string
+alpha1=(string.ascii_lowercase)
+alpha2=(string.ascii_lowercase)
+for g in range(0,26):
+    for h in range(0,26):
+        rest=alpha1[g]+alpha2[h]
+        print (rest)
