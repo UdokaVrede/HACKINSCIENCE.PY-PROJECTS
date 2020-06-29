@@ -1,0 +1,10 @@
+import string
+def combine():
+    alpha1=string.ascii_lowercase
+    for first in range(26):
+        for second in range(first + 1, 26):
+             red=alpha1[first]+alpha1[second]
+             print(red)
+        
+        
+combine()
