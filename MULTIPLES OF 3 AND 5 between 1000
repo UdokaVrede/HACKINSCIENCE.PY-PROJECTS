@@ -1,0 +1,8 @@
+sum=0
+for num in range(999):
+    num=num+1
+    tea=num%3
+    pea=num%5
+    if(tea==0)or (pea==0):
+        sum=sum+num
+print(sum)
